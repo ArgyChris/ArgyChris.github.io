@@ -3,10 +3,11 @@ title: "A multi-scale tensor voting approach for small retinal vessel segmentati
 collection: publications
 permalink: /publication/Journal1
 excerpt: 'This paper is about tasdaasd re work.'
-date: 2009-10-01
+date: 20016 -10-01
 venue: 'Computerized Medical Imaging and Graphics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+'500x300.png'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
