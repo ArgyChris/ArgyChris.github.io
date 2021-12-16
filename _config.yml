@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Argyrios Christodoulidis"
   avatar           : "profile.png"
-  bio              : >-"Postdoctoral Researcher"
-  			"Centre for Research"
+  bio              : "Postdoctoral Researcher\
+  			\ Centre for Research\
+  			asas"
   location         : "Thessaloniki, Greece"
   employer         : >-"Centre for Research 
   			and Technology Hellas"
