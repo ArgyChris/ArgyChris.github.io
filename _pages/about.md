@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Centre for Research and Technology Hellas (CERTH), Thessaloniki, Greece. I work at the Visual Computing Lab, under the supervision of Alex Papadimitriou and Petros Daras. My current research is focused on Computer Vision and Deep Reinforcement Learning for Robotics and Autonomous driving. I am interested in Deep Learning methods that can be trained on scarce labeled data, with a focus on Weakly-Supervised and Self-Supervised approaches. The main areas of application are Retinal and Histopathological Image Analysis.
+I am a Postdoctoral Researcher at the Centre for Research and Technology Hellas (CERTH), Thessaloniki, Greece. I work at the Visual Computing Lab, under the supervision of Alex Papadimitriou and Petros Daras. My current research is focused on Computer Vision and Deep Reinforcement Learning applied to robotics. My general interests are at the interesection of medical image computing, computer vision, artificial intelligence.
 
 Previously I was a Researcher (Engineer) at Diagnos Inc., in Montreal (Canada), working on Retinal Image Analysis. Before this, during my PhD (Polytechnique Montreal, Canada) I worked on the problem of small retinal vessels segmentation and characterization from fundus images.
 
