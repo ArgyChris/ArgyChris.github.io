@@ -10,9 +10,7 @@ locale                   : "en-US"
 title                    : "Argyrios Christodoulidis / Research Site"
 title_separator          : "-"
 name                     : &name "Argyrios Christodoulidis"
-description              : &description "Postdoctoral Researcher"\
-  			\ "Centre for Research"\
-  			"asasas222"
+description              : &description "Postdoctoral Researcher"
 url                      : https://argychris.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,12 +82,9 @@ analytics:
 author:
   name             : "Argyrios Christodoulidis"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher\
-  			\ Centre for Research\
-  			asas"
+  bio              : "Postdoctoral Researcher"
   location         : "Thessaloniki, Greece"
-  employer         : >-"Centre for Research 
-  			and Technology Hellas"
+  employer         : "Centre for Research and Technology Hellas"
   googlescholar    : "https://scholar.google.ca/citations?user=4uIeOT4AAAAJ&hl=en"
   email            : "argyrios.christodoulidis@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Argiris-Christodoulidis"
