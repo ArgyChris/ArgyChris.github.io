@@ -10,7 +10,9 @@ locale                   : "en-US"
 title                    : "Argyrios Christodoulidis / Research Site"
 title_separator          : "-"
 name                     : &name "Argyrios Christodoulidis"
-description              : &description "Postdoctoral Researcher"
+description              : &description ""Postdoctoral Researcher\
+  			\ Centre for Research\
+  			asasas222""
 url                      : https://argychris.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
