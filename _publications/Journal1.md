@@ -16,5 +16,3 @@ This paper is about the number 1. The number 2 is left for future work.
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
-![]: https://github.com/ArgyChris/ArgyChris.github.io/images/500x300.png
-
