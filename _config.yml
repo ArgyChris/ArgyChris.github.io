@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Argyrios Christodoulidis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Thessaloniki, Greece"
-  employer         :
-  pubmed           : ""
+  employer         : "Centre for Research & Technology Hellas"
   googlescholar    : "https://scholar.google.ca/citations?user=4uIeOT4AAAAJ&hl=en"
-  email            :
+  email            : "argyrios.christodoulidis@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Argiris-Christodoulidis"
   uri              :
   bitbucket        :
