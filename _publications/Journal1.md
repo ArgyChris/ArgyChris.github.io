@@ -7,8 +7,7 @@ date: 2016-10-01
 venue: 'Computerized Medical Imaging and Graphics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-![alt text](https://github.com/ArgyChris/ArgyChris.github.io/edit/master/images/blob/
-500x300.png?raw=true)
+image: <i>https://github.com/ArgyChris/ArgyChris.github.io/edit/master/images/blob/500x300.png?raw=true<i>
 
 #image: (/images/500x300.jpg)
 
