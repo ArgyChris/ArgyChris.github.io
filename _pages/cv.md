@@ -17,26 +17,13 @@ Education
 
 Work experience
 ======
-* Postdoctoral Researcher at Centre for Research and Technology Hellas (Feb. 2021-Now):
-  * Research and Development of algorithms in Python, Pytorch, Tensorflow, and various robotic suites to imitate the
-human user from visual observation using active imitation learning
+* Feb. 2021-Now: Postdoctoral Researcher at Centre for Research and Technology Hellas, Thessaloniki, Greece
 
+* Aug. 2017-Jul. 2020: Researcher (Engineer) at Diagnos Inc., Montreal, Canada
 
-* Researcher (Engineer) at Diagnos Inc. (Aug. 2017-Jul. 2020):
-  * Research and development on automatic grading systems for the detection of retinal pathologies in fundus imaging
-  * Built deep learning models for diabetic retinopathy grading in Python
-  * Research and implementation in C++ of general image features that improved the classification performance of the
-grading systems
-  *Organized and supervised the process that led to the annotation of the vessels in a big dataset 
+* Jan. 2012-Sep. 2012: Research Assistant at University of Thessaly, Lamia, Greece
 
-
-* Research Assistant at University of Thessaly (Jan. 2012-Sep. 2012):
-  *Research on algorithms in human active recognition from omnidirectional cameras
-
-
-* Research Assistant at Aristotle University of Thessaloniki (Jan. 2010-Apr. 2010):
-  *Research on algorithms in facial expression recognition based on supervised learning
-
+* Jan. 2010-Apr. 2010: Research Assistant at Aristotle University of Thessaloniki, Thessaloniki, Greece
 
 Skills
 ======
