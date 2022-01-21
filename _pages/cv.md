@@ -21,9 +21,9 @@ Work experience
 
 * Aug. 2017-Jul. 2020: Researcher (Engineer) at Diagnos Inc., Montreal, Canada
 
-* Jan. 2012-Sep. 2012: Research Assistant at The University of Thessaly, Lamia, Greece
+* Jan. 2012-Sep. 2012: Research Assistant at University of Thessaly, Lamia, Greece
 
-* Jan. 2010-Apr. 2010: Research Assistant at The Aristotle University of Thessaloniki, Thessaloniki, Greece
+* Jan. 2010-Apr. 2010: Research Assistant at Aristotle University of Thessaloniki, Thessaloniki, Greece
 
 Skills
 ======
