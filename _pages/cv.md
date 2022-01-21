@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Feb. 2021-Now: Postdoctoral Researcher at Centre for Research and Technology Hellas, Thessaloniki, Greece
+* Feb. 2021-Now: Postdoctoral Researcher at The Centre for Research and Technology Hellas, Thessaloniki, Greece
 
 * Aug. 2017-Jul. 2020: Researcher (Engineer) at Diagnos Inc., Montreal, Canada
 
-* Jan. 2012-Sep. 2012: Research Assistant at University of Thessaly, Lamia, Greece
+* Jan. 2012-Sep. 2012: Research Assistant at The University of Thessaly, Lamia, Greece
 
-* Jan. 2010-Apr. 2010: Research Assistant at Aristotle University of Thessaloniki, Thessaloniki, Greece
+* Jan. 2010-Apr. 2010: Research Assistant at The Aristotle University of Thessaloniki, Thessaloniki, Greece
 
 Skills
 ======
