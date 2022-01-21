@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Engineering, Polytechnique Montreal, 2017
+* M.Sc. in Medical Image Computing, University College London, 2011
+* B.Sc. in Computer Science and Biomedical Informatics, University of Thessay, 2009
 
 Work experience
 ======
