@@ -29,11 +29,14 @@ human user from visual observation using active imitation learning
 grading systems
   *Organized and supervised the process that led to the annotation of the vessels in a big dataset 
 
+
 * Research Assistant at University of Thessaly (Jan. 2012-Sep. 2012):
   *Research on algorithms in human active recognition from omnidirectional cameras
 
+
 * Research Assistant at Aristotle University of Thessaloniki (Jan. 2010-Apr. 2010):
   *Research on algorithms in facial expression recognition based on supervised learning
+
 
 Skills
 ======
