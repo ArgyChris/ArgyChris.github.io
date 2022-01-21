@@ -1,5 +1,5 @@
 1---
-title: "A multi-scale tensor voting approach for small retinal vessel segmentation in high resolution fundus images"
+title: "Aaas multi-scale tensor voting approach for small retinal vessel segmentation in high resolution fundus images"
 collection: publications
 permalink: /publication/Journal1
 excerpt: 'This paper is about tasdaasd re work.'
@@ -15,7 +15,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-excerpt: "asdf <br/><img src='/images/500x300.png'>"
+excerpt: "asdf <br/><img src='/images/cmig2016.png'>"
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
