@@ -33,7 +33,7 @@ Skills
 * Languages: Python, Matlab, C/C++, Bash
 * Computer Vision and Imaging: OpenCV, ITK Library, CellProfiler
 * Data Science, Machine Learning, Visualization: Pandas, Scipy, NumPy, Pytorch, Tensorflow, Matplotlib, Git
-* Robotics and Reinforcement Learning Suites: Pybullet, Mujoco, ROS, Gym
+* Robotics and Reinforcement Learning Suites Pybullet, Mujoco, ROS, Gym
 * Web frameworks: Django, Flask
 * Presentation Suites Open/Microsoft Office, Latex
   
@@ -51,4 +51,4 @@ Honors, Recognitions, and Funding
 International Conference on Biomedical and Health Informatics, 2019: Showcased our AI-based approach for 
 enabling preventive medicine in opthalmology. Our solution was selected as a finalist (top 5 companies and startups)
 * Honorable mention (top 10% of reviewers) in MICCAI 2022 conference by exceeding reviews expectations
-* Scholarship for doctoral studies: P
+* Scholarship for doctoral studies: Partnership between Diagnos Inc. and NSERC 
