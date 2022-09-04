@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher3 at the Centre for Research and Technology Hellas (CERTH), Thessaloniki, Greece. I work at the Visual Computing Lab, under the supervision of Alex Papadimitriou and Petros Daras. My current research is focused on Computer Vision and Deep Reinforcement Learning applied to robotics. My general interests are at the interesection of medical image computing, computer vision, and artificial intelligence.
+I am a R&D Solutions Engineer (Sr. Associate) at the Pfizer Center for Digital Innovation, Thessaloniki, Greece. My current work is focused on creating tools for Pfizer research unit, and doing research in image and data analysis.
 
-Previously I was a Researcher (Engineer) at Diagnos Inc., in Montreal (Canada), working on Retinal Image Analysis. Before this, during my PhD (Polytechnique Montreal, Canada) I worked on the problem of small retinal vessels segmentation and characterization from fundus images.
+Before joing Pfizer, I worked as a Postdoctoral Researcher in the Visual Computing Lab of the Centre for Research and Technology Hellas (CERTH), Thessaloniki, Greece, under the supervision of Alex Papadimitriou and Petros Daras. My research focused on Computer Vision and Deep Reinforcement Learning applied to robotics. My general interests are at the interesection of medical image computing, computer vision, and artificial intelligence. Before that, I was a Researcher at Diagnos Inc., in Montreal (Canada), working on Retinal Image Analysis. During my PhD (Polytechnique Montreal, Canada) I worked on the problem of small retinal vessels segmentation and characterization from fundus images.
 
 For more info
 ------
